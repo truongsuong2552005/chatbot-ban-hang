@@ -1,2 +1,6 @@
-# chatbot-ban-hang
-Chatbot bán hàng tiếng Việt
+# Chatbot Bán Hàng Tiếng Việt
+
+Hướng dẫn chạy local:
+```
+python app.py
+```

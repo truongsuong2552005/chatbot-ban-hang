@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "chao_hoi",
+      "patterns": ["Chào bạn", "Xin chào", "Có ai ở đó không", "Hello"],
+      "responses": ["Chào bạn! Bạn cần tư vấn sản phẩm gì ạ?", "Xin chào, em có thể giúp gì cho anh/chị?"]
+    },
+    {
+      "tag": "san_pham",
+      "patterns": ["Có những sản phẩm nào", "Shop bán gì", "Danh mục sản phẩm là gì"],
+      "responses": ["Bên em có các dòng sản phẩm như: mỹ phẩm, thực phẩm chức năng và đồ gia dụng ạ."]
+    },
+    {
+      "tag": "gia_san_pham",
+      "patterns": ["Sản phẩm này giá bao nhiêu", "Có giảm giá không", "Giá của serum là bao nhiêu"],
+      "responses": ["Sản phẩm đang có giá ưu đãi, anh/chị cần hỏi cụ thể mã nào để em tra giúp nhé."]
+    },
+    {
+      "tag": "dat_hang",
+      "patterns": ["Tôi muốn đặt hàng", "Mua cái này như thế nào", "Làm sao để đặt mua"],
+      "responses": ["Anh/chị chỉ cần để lại số điện thoại hoặc inbox fanpage, bên em sẽ liên hệ ngay ạ."]
+    },
+    {
+      "tag": "thoi_gian_giao",
+      "patterns": ["Bao lâu thì nhận được hàng", "Thời gian giao hàng là bao lâu"],
+      "responses": ["Thời gian giao hàng từ 1-3 ngày tùy khu vực, anh/chị nhé."]
+    },
+    {
+      "tag": "tam_biet",
+      "patterns": ["Tạm biệt", "Cảm ơn", "Bye bye"],
+      "responses": ["Cảm ơn anh/chị, hẹn gặp lại!", "Chúc anh/chị một ngày vui vẻ!"]
+    }
+  ]
+}
